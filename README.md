@@ -3,7 +3,7 @@
 > A modern, responsive, and visually premium gym & fitness website built with HTML5, CSS3, JavaScript, and Bootstrap 5.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-f97316?style=for-the-badge&logo=github)](https://YOUR-USERNAME.github.io/fitzone/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME/fitzone)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://rifaqajmal.github.io/FitZone-Gym-Website/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
