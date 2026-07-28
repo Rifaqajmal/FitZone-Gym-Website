@@ -123,6 +123,8 @@ BMI = weight (kg) / height (m)²
 ≥ 30      → Obese
 ```
 
+> ⚠️ **Note:** BMI is a general screening measure only and does not account for muscle mass, body composition, age, or sex. It should not be used as a sole indicator of health.
+
 ---
 
 ## 📌 Future Improvements
